@@ -16,7 +16,7 @@
 </p>
 
 ### Languages
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gabryel-araujo)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
 ### Technologies & Frameworks
