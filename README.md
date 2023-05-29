@@ -10,9 +10,6 @@
     <a href="https://www.linkedin.com/in/gabryel-araujo-63027b1bb/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/wervlad">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a>
 </p>
 
 <div align="center">
