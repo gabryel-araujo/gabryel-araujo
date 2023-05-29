@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://avatars.githubusercontent.com/u/113953401?s=400&u=3b3d72f00bc7a3da227f91c373d0989c37b0cd89&v=4" width="60px" alt="👋"></h1>
+<h1 align="center">Hello World!</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
