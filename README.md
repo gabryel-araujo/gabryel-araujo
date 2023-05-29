@@ -2,7 +2,6 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-    <b>Bem-Vindo ao meu GitHub!</b><br><br>
     <i>
         Me chamo Gabryel Araújo.<br>
         Atualmente curso Sistemas para internet no IFPB<br>
