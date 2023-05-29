@@ -14,7 +14,9 @@
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
 </p>
+
 <div align="center">
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gabryel-araujo)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gabryel-araujo)
@@ -29,6 +31,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/gabryel-araujo)
 
 </div>
+
 
 <p align="center">
   <a href="https://github.com/gabryel-araujo">
