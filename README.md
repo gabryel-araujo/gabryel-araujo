@@ -23,9 +23,9 @@
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gabryel-araujo)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/gabryel-araujo)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/gabryel-araujo)
-[![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/gabryel-araujo)
+[![Angular](https://img.shields.io/badge/angular-black.svg?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/gabryel-araujo)
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://github.com/gabryel-araujo)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/gabryel-araujo)
+[![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/gabryel-araujo)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/gabryel-araujo)
