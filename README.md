@@ -17,7 +17,7 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/gabryel-araujo)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/gabryel-araujo)
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabryel-araujo)
+[![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/gabryel-araujo)
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/gabryel-araujo)
