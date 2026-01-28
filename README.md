@@ -4,7 +4,8 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         Me chamo Gabryel Araújo.<br>
-        Atualmente curso Sistemas para internet no Unipê<br>
+        Sou graduado em Sistemas Para Internet<br>
+        Curso pós graduação em CyberSecurity<br>
         Seja bem-vindo ao meu github.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gabryel-araujo-63027b1bb/">
