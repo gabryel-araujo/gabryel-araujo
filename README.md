@@ -114,19 +114,6 @@ $ cat /etc/profile
 ## `📊 GitHub Stats`
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gabryel-araujo&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-araujo&layout=compact&langs_count=7&theme=terminal&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabryel-araujo&theme=terminal&hide_border=true&background=0D0D0D&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&sideLabels=00FF41&dates=c9d1d9)](https://git.io/streak-stats)
 
