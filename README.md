@@ -15,7 +15,7 @@
 
 # Gabryel Araújo
 
-### `> Full Stack Developer` · `> CyberSecurity ` · `> Systems Architect`
+### `> Full Stack Developer` · `> CyberSecurity Specialist` · `> Systems Architect`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Desenvolvendo+sistemas+resilientes+desde+2020;Protect+%7C+Detect+%7C+Respond;Code+is+law+%E2%80%94+make+it+secure.;Graduado+em+Sistemas+para+Internet;P%C3%B3s-Grad+em+CyberSecurity+%F0%9F%94%90)](https://git.io/typing-svg)
 
@@ -114,10 +114,16 @@ $ cat /etc/profile
 ## `📊 GitHub Stats`
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabryel-araujo&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-araujo&layout=compact&langs_count=7&theme=terminal&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gabryel-araujo&show_icons=true&theme=terminal&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-araujo&layout=compact&langs_count=7&theme=terminal&hide_border=true&bg_color=0d0d0d&title_color=00FF41&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
