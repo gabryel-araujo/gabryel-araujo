@@ -36,7 +36,7 @@ $ cat /etc/profile
 > Aprofundando em Vue / Nuxt para arquiteturas alternativas
 > Pós-graduando em CyberSecurity — para projetar sistemas
   que resistem a ataques desde o design, não para migrar de carreira
-> Baseado no Brasil 🇧🇷
+> Made in Brasil 🇧🇷
 ```
 
 ---
